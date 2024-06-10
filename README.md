@@ -16,7 +16,7 @@ No requirements besides java.
 ## Instructions
 
 ### Kø (Queue)
-Metoder:
+Methods:
 - `leggTil()`: Adds an element last in the list.
 - `fjern()`: Removes and returns the first element in the list. 
 - `hent()`: Returns the first element in the list, without removing it. 
@@ -28,13 +28,13 @@ Methods:
 - `hent()`: Returns the first element in the list, without removing it. 
 
 ### Prioritetskø (Priority queue)
-Metoder:
+Methods:
 - `leggTil()`: Adds an element to the list based on priority. 
 - `fjern()`: Removes and returns the first element in the list. 
 - `hent()`: Returns the first element in the list, without removing it.
 
 ### Indeksert liste (Indexed list)
-Metoder:
+Methods:
 - `leggTil()`: Adds an element to a specific index in the list. Elements on that index on higher, are moved one place up. 
 - `fjern()`: Removes and returns an element on a specific index. 
 - `hent()`: Returns the element on specific index, without removing it. 
