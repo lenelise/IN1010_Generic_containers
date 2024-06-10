@@ -46,12 +46,6 @@ class IndeksertListe2<E> extends Lenkeliste<E> {
             nyNode.neste = peker;
         }
 
-        //justere indeksene for elementene bak:
-        // while(peker.neste != null){
-        //     peker.indeks++;
-        //     peker = peker.neste;
-        // }
-
         antElementer++;
         }
 
