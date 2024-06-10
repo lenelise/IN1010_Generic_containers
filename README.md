@@ -7,7 +7,7 @@ The containters are:
 - Prioritetskoe: a priority queue where elements in the list must implement the interface `Comparable`
 - IndeksertListe: An indexed list.
 
-The project was Assingment 2 in the course IN1010 at University of Oslo spring 2024. 
+The project was Assingment 2 in the course IN1010 at University of Oslo spring 2024. Because of this the class, variable and method names are Norwegian. 
 
 ## Installation
 
@@ -39,7 +39,7 @@ Metoder:
 - `fjern()`: Removes and returns an element on a specific index. 
 - `hent()`: Returns the element on specific index, without removing it. 
 
-## Lenkeliste
+### Lenkeliste
 
 This is the abstract method the other classes inherits from. Common methods not overridden in the subclasses are:  
 

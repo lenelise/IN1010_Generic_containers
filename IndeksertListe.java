@@ -1,6 +1,6 @@
-class IndeksertListe2<E> extends Lenkeliste<E> {
+class IndeksertListe<E> extends Lenkeliste<E> {
 
-    IndeksertListe2(){super();}
+    IndeksertListe(){super();}
 
     public void leggTil(int pos, E x){
         if (pos < 0) {throw new UgyldigListeindeks(pos);} 
